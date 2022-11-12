@@ -1,0 +1,1 @@
+## Connect Azure Functions to Azure Cosmos DB using Visual Studio Code
